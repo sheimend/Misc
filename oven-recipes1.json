@@ -1,9 +1,9 @@
  {
-   "document_id": "G8inaGUvRxFHGXAJ6C2n",
-   "Rating": 0,
-   "CookTime": 3300,
+   "id": 50,
+   "rating": 0,
+   "cooktime": 3300,
    "coverPhotoUrl": "https://res.cloudinary.com/anova-applied-electronics/image/upload/v1591049883/mobileProduction/iz5ji3fwhinnrqv5gcr1.jpg",
    "description": "A basic no-frills recipe for cooking fantastic skin-on dark meat chicken in the Anova Precision Oven. Use this recipe as a starting point to add your own spin. You can scale the recipe up to as many portions as you like and the times and temperatures will remain the same. ",
-   "Title": "Chicken Leg 101",
-   "UserID": "XY7voRapc1MTdFZf5wmXkXWdOgW2"
+   "title": "Chicken Leg 101",
+   "userID": "XY7voRapc1MTdFZf5wmXkXWdOgW2"
  }
